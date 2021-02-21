@@ -1,11 +1,10 @@
 # Statistical Analysis of Medicare Payments
-### About Medicare
-Medicare is a federal government health insurance plan that was initialized in 1966 under the Social Security Administration (SSA). Presently, it is being governed by the Centers for Medicare and Medicaid Services. Medicare provides health insurance plans for people aged 65 and older. It also provides special plans for younger people with disabilities. Moreover, this plan includes coverage for end stage renal diseases and amyotrophic lateral sclerosis (ALS).
-### About IPPS 
-The payment made by medicare for hospital inpatient stays is based on preset rates under Part A. ​This payment system is referred to as the inpatient prospective payment system (IPPS). Under the IPPS, every patient’s medical condition is grouped into a diagnosis-related group (DRG). Each DRG has a payment weight assigned to it, based on the average resources used to treat Medicare patients in that DRG. The base payment rate is divided into two parts of labor and non labour payments. Labor-related share is adjusted based on where the hospital is located. the non labor share is adjusted by a cost of living adjustment factor. This base payment rate is multiplied by the DRG relative weight.
-### About Total Performance Score
-Total performance of any hospital is a weighted sum of scores from four domains.
--  Clinical Outcomes Score
--  Efficiency and Cost Reduction Score 
--  Safety Score
--  Community and Engagement Score.
+### Overview
+Medicare Payments data is mergiedwith the Inpatient Prospect Payment System (IPPS) and the Total Performance Score(TPS) of the hospitals. Clinical Outcomes Score, Efficiency and Cost Reduction Score, Safety Score, Community and Engagement Score, these four types of hospital scores are considered to get the results. With the introduction of the Inpatient Prospective Payment System (IPPS), it is assumed that all DRGs are paid out uniformly to the various hospitals with an adjustment for location and prevailing wage index. However, Medicare costs have been rising year on year. While this increase is in part due to the increasing costs of drugs and its monopolization by pharma cos, hospitals are also constantly investing money in improving their facilities. With the hospitals seeking to make a profit on their investments, the concern over hospital overbilling Medicare arises.
+
+#### analysis aims to answer the following questions,
+- 1. Are medical providers paid the same across the United States by Medicare for each Diagnosis Related Group (DRG)?
+*^ 2. How do extra charges (service charges) vary across different medical facilities in the state of Florida?
+*^ 3. How do out-of-pocket charges vary across the United State for each Diagnosis Related Group (DRG)?
+
+
