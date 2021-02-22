@@ -37,6 +37,6 @@ Created three different features of Average Out Of Pocket Payment, Average Extra
 
 ### Results/Answers of Analysis aims.
 How do out-of-pocket charges vary across the United State for each Diagnosis Related Group (DRG)?
- *^ ![image](images/P8.png)
- *^ ![image](images/P9.png)
+![image](images/P8.png)
+![image](images/P9.png)
 
