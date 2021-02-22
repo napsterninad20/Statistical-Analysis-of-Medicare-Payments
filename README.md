@@ -36,16 +36,16 @@ Created three different features of Average Out Of Pocket Payment, Average Extra
 
 ## Results/Answers of Analysis aims
 - How do out-of-pocket charges vary across the United State for each Diagnosis Related Group (DRG)?
-![image](images/P8.png)
-![image](images/P9.png)
+<img src="images/P8.png" width="450" height=250">
+<img src="images/P9.png" width="450" height=250">
 
 - How do extra charges (service charges) vary across different medical facilities in the state of Florida?
-![image](images/P10.png)
-![image](images/P11.png)
+<img src="images/P10.png" width="450" height=250">
+<img src="images/P11.png" width="450" height=250">
 
 - Are medical providers paid the same across the United States by Medicare for each Diagnosis Related Group (DRG)?
-![image](images/P12.png)
-![image](images/P13.png)
+<img src="images/P12.png" width="450" height=250">
+<img src="images/P13.png" width="450" height=250">
 
 ## Recommendations & Future Scope
 - Hospitals in the states of Hawaii, Utah, and Virginia should probe into their billing as they seem to have the highest out of pocket expenses, which has a higher chance of not being repaid since it is paid off by the patients.
