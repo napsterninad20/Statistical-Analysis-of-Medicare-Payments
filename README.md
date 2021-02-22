@@ -4,9 +4,8 @@ Medicare Payments data is mergied with the Inpatient Prospect Payment System (IP
 
 #### analysis aims to answer the following questions,
 - How do out-of-pocket charges vary across the United State for each Diagnosis Related Group (DRG)?
-- Are medical providers paid the same across the United States by Medicare for each Diagnosis Related Group (DRG)?
 - How do extra charges (service charges) vary across different medical facilities in the state of Florida?
-
+- Are medical providers paid the same across the United States by Medicare for each Diagnosis Related Group (DRG)?
 
 ## Data Source and Exploration 
 Our primary data source for the analysis was the Data portal on the Centers for Medicare & Medicaid Services’ website. The Inpatient Prospective Payment System data file for 2017 provides a provider-level summary for the top 100 Diagnosis Related Groups. Each record represents an aggregated measure of medicare payments, provider billing and total covered charges for every combination of DRG & hospitals participating in the program.
@@ -35,8 +34,15 @@ We merged IPPS, HVP performance, Average Income and Average Population dataset b
 #### Feature Engineering
 Created three different features of Average Out Of Pocket Payment, Average Extra Payment and Percentage Payment Reduction.
 
-## Results/Answers of Analysis aims.
-1. How do out-of-pocket charges vary across the United State for each Diagnosis Related Group (DRG)?
+## Results/Answers of Analysis aims
+- How do out-of-pocket charges vary across the United State for each Diagnosis Related Group (DRG)?
 ![image](images/P8.png)
 ![image](images/P9.png)
 
+- How do extra charges (service charges) vary across different medical facilities in the state of Florida?
+![image](images/P10.png)
+![image](images/P11.png)
+
+- Are medical providers paid the same across the United States by Medicare for each Diagnosis Related Group (DRG)?
+![image](images/P12.png)
+![image](images/P13.png)
