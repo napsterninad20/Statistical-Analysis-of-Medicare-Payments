@@ -18,6 +18,7 @@ Finally, we used the Census Bureau's 2017 estimates for population across the va
 ![image](images/P1.png)
 ![image](images/P2.jpg)
 ![image](images/P3.jpg)
+<img src="P1.png" width="324" height="324">
 
 ## Data Pre-Processing and Feature Engineering
 #### Data Merging
