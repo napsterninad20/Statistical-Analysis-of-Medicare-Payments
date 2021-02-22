@@ -46,3 +46,10 @@ Created three different features of Average Out Of Pocket Payment, Average Extra
 - Are medical providers paid the same across the United States by Medicare for each Diagnosis Related Group (DRG)?
 ![image](images/P12.png)
 ![image](images/P13.png)
+
+## Recommendations & Future Scope
+- Hospitals in the states of Hawaii, Utah, and Virginia should probe into their billing as they seem to have the highest out of pocket expenses, which has a higher chance of not being repaid since it is paid off by the patients.
+- Medicare should probe into hospitals such as the Memorial Regional Hospital, Viera Hospital and Coral Gables Hospitals as they are among the highest in terms of extra charges billed to patients resulting in expensive medical treatment bills for the DRG’s as compared to other facilities.
+- State of Hawaii has the maximum medicare payment considering other states having similar average household income and population.
+- State of Virginia has the minimum medicare payment considering other states having similar average household income and population.
+- Hospitals should focus on improving their Total Performance Score in order to minimize losses in terms of payment cuts from Medicare. Out of the 2500 unique medical facilities in our dataset, only 105 providers had a TPS >= 59 (the threshold beyond which payment reductions kick in).
