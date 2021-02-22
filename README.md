@@ -44,8 +44,8 @@ Created three different features of Average Out Of Pocket Payment, Average Extra
 <img src="images/P11.png" width="600" height="250">
 
 - Are medical providers paid the same across the United States by Medicare for each Diagnosis Related Group (DRG)?
-<img src="images/P12.png" width="600" height="300">
-<img src="images/P13.png" width="600" height="300">
+<img src="images/P12.png" width="600" height="250">
+<img src="images/P13.png" width="600" height="250">
 
 ## Recommendations & Future Scope
 - Hospitals in the states of Hawaii, Utah, and Virginia should probe into their billing as they seem to have the highest out of pocket expenses, which has a higher chance of not being repaid since it is paid off by the patients.
