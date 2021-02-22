@@ -16,8 +16,8 @@ Finally, we used the Census Bureau's 2017 estimates for population across the va
 
 ## Exploratory Data Analysis
 <img src="images/P1.png" width="900" height="400">
-<img src="images/P2.png" width="700" height="400">
-<img src="images/P3.png" width="700" height="400">
+<img src="images/P2.jpg" width="600" height="350">
+<img src="images/P3.jpg" width="600" height="350">
 
 ## Data Pre-Processing and Feature Engineering
 #### Data Merging
