@@ -36,7 +36,7 @@ Created three different features of Average Out Of Pocket Payment, Average Extra
 
 ## Results/Answers of Analysis aims
 - How do out-of-pocket charges vary across the United State for each Diagnosis Related Group (DRG)?
-<img src="images/P8.png" width="600" height="150">
+<img src="images/P8.png" width="600" height="170">
 <img src="images/P9.png" width="600" height="150">
 
 - How do extra charges (service charges) vary across different medical facilities in the state of Florida?
