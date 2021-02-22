@@ -23,10 +23,10 @@ Finally, we used the Census Bureau's 2017 estimates for population across the va
 #### Data Merging
 We merged IPPS, HVP performance, Average Income and Average Population dataset by performing an inner join on facility ID and state.
 #### Data Transformation
-● Converted column names to lowercase and renamed variables to achieve consistency. Splitted DRG definition into DRG code and DRG description.
-● Verified if any features have missing values.
-● Replaced missing values from performance variables with ‘Not Available’
-● Converted continuous variables to numeric and categorical variables into factors.
-● Scaled predictors for standardization and rounded fraction up to 4 decimal places.
-● Performed Log Transformation for variables with right skewed distribution.
+- Converted column names to lowercase and renamed variables to achieve consistency. Splitted DRG definition into DRG code and DRG description.
+- Verified if any features have missing values.
+- Replaced missing values from performance variables with ‘Not Available’
+- Converted continuous variables to numeric and categorical variables into factors.
+- Scaled predictors for standardization and rounded fraction up to 4 decimal places.
+- Performed Log Transformation for variables with right skewed distribution.
 
