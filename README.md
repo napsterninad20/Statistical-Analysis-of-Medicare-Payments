@@ -16,7 +16,6 @@ Finally, we used the Census Bureau's 2017 estimates for population across the va
 
 ### Exploratory Data Analysis
 ![image](images/P1.png)
-![image](images/P2.png)
-![image](images/P3.png)
-![image](images/P5.png)
+![image](images/P2.jpg)
+![image](images/P3.jpg)
 
