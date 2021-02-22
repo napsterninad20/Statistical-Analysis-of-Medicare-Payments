@@ -15,8 +15,9 @@ In order to control for the impact of the hospital’s performance measures on t
 Finally, we used the Census Bureau's 2017 estimates for population across the various counties, cities and states and prevailing wage estimates to control for the differences in population and cost of living during our analysis.
 
 ## Exploratory Data Analysis
-<img src="images/P1.png" width="700" height="400">
-
+<img src="images/P1.png" width="900" height="400">
+<img src="images/P2.png" width="700" height="400">
+<img src="images/P3.png" width="700" height="400">
 
 ## Data Pre-Processing and Feature Engineering
 #### Data Merging
